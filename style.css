@@ -1,0 +1,15 @@
+#definicion{
+    color: blue;
+}
+
+p.color_verd{
+    color: green;
+}
+
+p{
+    color: green;
+}
+
+p.Navegadores{
+    color: red;
+}
